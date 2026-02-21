@@ -30,3 +30,7 @@ Tipo de ataque: *Social-Engineering Attacks*<br>
 Vetor de ataque: *Web Site Attack Vectors*<br>
 Método de ataque: *Credential Harvester Attack Method*<br> 
 Método de ataque: *Site Cloner*<br>
+
+✅ Resultado:
+
+![password](https://github.com/user-attachments/assets/e27b478c-8219-4504-933e-8f760d61096e)
